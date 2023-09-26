@@ -23,6 +23,6 @@ You can add an image or a code block, too.
 </details>
 
 <details>
-   <summary>Second collapse
+   <summary>Second collapse</summary>
       This is fun. 
 </details>
