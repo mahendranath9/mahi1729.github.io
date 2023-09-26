@@ -1,11 +1,7 @@
 # Mahendranath Perisetti
 
 
-#Hello world.
-| First Header  | Second Header | 
-| ------------- | ------------- |
-| Content Cell  | Content Cell  | 
-| Content Cell  | Content Cell  | 
+
 
 <details>
    <summary>Tips for collapsed sections</summary>
