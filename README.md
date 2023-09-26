@@ -21,3 +21,8 @@ You can add an image or a code block, too.
 ```
 
 </details>
+
+<details>
+   <summary>Second collapse
+      This is fun. 
+</details>
