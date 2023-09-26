@@ -5,7 +5,7 @@
 
 <details>
    <summary>Publications</summary>
-      1. Cahn-Hilliard \\
+      1. Cahn-Hilliard 
       2. Navier-Stokes
 </details>
 
