@@ -4,5 +4,5 @@
 | First Header  | Second Header | Third |
 | ------------- | ------------- | ----- |
 | Content Cell  | Content Cell  | Cell  |
-| Content Cell  | Content Cell  | Cells 
+| Content Cell  | Content Cell  | Cells      |
 
