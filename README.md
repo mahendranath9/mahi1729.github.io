@@ -1,8 +1,6 @@
 ### Mahendranath Perisetti
 
----
-layout: default
----
+
 
 
 ## Experience
