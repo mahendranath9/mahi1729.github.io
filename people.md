@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # People
 
 ## PhD students
