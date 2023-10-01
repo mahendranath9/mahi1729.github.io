@@ -9,9 +9,8 @@ layout: default
 
 ## Education
 
-* BE, Mechanical Engineering, KREC, Surathkal, 1994-1998
-* ME, Aerospace Engineering, IISc, Bangalore, 1998-2000 (SR No. 605198127)
-* PhD, Aerospace Engineering, IISc, Bangalore, 2000-2004 (SR No. 115199529)
+* Int. M.Sc. University of Hyderabad, 2010-2015.
+* PhD, Indian Institute of Science Education & Research(IISER) Thiruvananthapuram, 2021
 
 ## Research
 
