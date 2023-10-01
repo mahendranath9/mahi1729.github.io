@@ -2,27 +2,10 @@
 layout: default
 ---
 
-> If you have good computational skills and are looking for a postdoc position, then [write](contact.html) to me.
-> There is a postdoc call open at present, see [here](https://www.cfd-online.com/Jobs/showjob.php?record_id=18661).
-
-> If you are a student looking for internship, project assistant position or postdoc position, please read [this](forstudents.html) and write to me if you are interested in doing some project.
-
-> [Workshop on Finite Volume and Spectral Methods for Hyperbolic Problems, December 2023](2023/08/22/ncmw.html)
-
-I am an associate professor in the [Center for Applicable Mathematics](http://www.math.tifrbng.res.in), Bangalore, which is part of the [Tata Institute of Fundamental Research](http://www.tifr.res.in). My official page is located [here](http://www.math.tifrbng.res.in/people/praveen).
-
-<p style="text-align:center">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cTRQP6DSaqA" frameborder="0" allowfullscreen></iframe> <br/>
-For the details of the numerical scheme, see <a href="http://arxiv.org/abs/1506.06140">here</a>.
-</p>
 
 ## Experience
 
-* 3'rd Jan, 2005 to 14'th August 2006: Scientist, Computational and Theoretical Fluid Dynamics Division, National Aerospace Laboratories, Bangalore
-* 1'st September 2006 to July 2008: Post-doc, Projet OPALE, INRIA, Sophia Antipolis
-* 6 August 2008 to July 2011: Fellow, Tata Institute of Fundamental Research, Center for Applicable Mathematics, Bangalore.
-* July 2011 to June 2018: Reader, Tata Institute of Fundamental Research, Center for Applicable Mathematics, Bangalore.
-* July 2018 to present: Associate Professor (G), Tata Institute of Fundamental Research, Center for Applicable Mathematics, Bangalore.
+* 2022-2023, Postdoc fellow at Institute of Mathematics, Czech Academy of Sciences, Prague, Czech Republic.
 
 ## Education
 
@@ -32,22 +15,7 @@ For the details of the numerical scheme, see <a href="http://arxiv.org/abs/1506.
 
 ## Research
 
-My primary research interest is CFD and its applications. I am also interested in numerical analysis and numerical solution of PDE in general.
 
-* Computational Fluid Dynamics
-* Kinetic schemes for compressible flows
-* Meshless method
-* Finite volume method
-* Finite element and Discontinuous Galerkin Method
-* Compressible flows, MHD, Shallow water
-* Well-balanced scheme
-* Adjoint equations and solvers
-* Automatic differentiation
-* Shape optimization
-* Simplex method
-* Particle swarm optimization
-* Metamodelling, surrogate models
-* Parallel computing
 
 ## Research Projects
 
