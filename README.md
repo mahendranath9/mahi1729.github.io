@@ -19,4 +19,4 @@
 
 ## Ongoing works
 
-* L.N.M. Perisetti, J.S.H. Simons, Optimal control problem for multiphase flow with heat flux. 
+* L.N.M. Perisetti, J.S.H. Simons, Optimal control problem for multiphase flow with heat flux.  
