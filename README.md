@@ -1,8 +1,5 @@
 ### Mahendranath Perisetti
 
-<header>
-   Ram
-</header>
 
 
 ## Experience
