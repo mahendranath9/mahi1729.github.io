@@ -17,4 +17,6 @@
 * S. Dharmatti, L.N.M. Perisetti. Nonlocal Cahn-Hilliard-Brinkman system with regular potential: regularity and optimal control. J. Dyn. Control Syst. 27 (2021), no. 2, 221–246.
 * T. Biswas, S. Dharmatti, M.T. Mohan, L.N.M. Perisetti, On the stationary nonlocal Cahn-Hilliard-Navier-Stokes system: existence, uniqueness and exponential stability. Asymptot. Anal. 125 (2021), no. 1-2, 59–99. 
 
+## Ongoing works
 
+* L.N.M. Perisetti, J.S.H. Simons, Optimal control problem for multiphase flow with heat flux. 
