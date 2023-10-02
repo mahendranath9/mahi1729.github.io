@@ -14,5 +14,6 @@
 
 ## Research
 
+* L.N.M. Perisetti, S. Dharmatti. Nonlocal Cahn-Hilliard-Brinkman system with regular potential: regularity and optimal control. J. Dyn. Control Syst. 27 (2021), no. 2, 221–246
 
 
