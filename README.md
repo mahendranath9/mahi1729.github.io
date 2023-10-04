@@ -1,5 +1,5 @@
 <h1>Mahendranath Perisetti</h1>
-<img src=”WhatsApp Ima.jpg” height=”200” width=”100”>
+![Book logo](/WhatsApp Ima.jpg)
 <h2> Experience</h2>
 
 <ol>
