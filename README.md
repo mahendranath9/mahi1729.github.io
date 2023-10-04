@@ -4,7 +4,6 @@
    <img src='WhatsApp Ima.jpg' style="float:right;width:250px;height:400px;" />
 </h1>
 <nav>
-   <h1>Praveen Chandrashekar</h1>
 
    <p>
    <a href="index.html">Home</a><br>
