@@ -3,6 +3,10 @@
    Mahendranath Perisetti 
    <img src='WhatsApp Ima.jpg' style="float:right;width:250px;height:400px;" />
 </h1>
+<p>
+   Insti of Maths 
+   Prague
+</p>
 <! --![My picture](WhatsApp Ima.jpg) -->
 
 <h2> Experience</h2>
