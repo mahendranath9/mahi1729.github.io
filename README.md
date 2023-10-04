@@ -12,7 +12,7 @@
    <a href="codes.html">Codes</a><br>
    <a href="talks.html">Talks</a><br>
    <a href="teaching/index.html">Teaching</a><br>
-   <a href="pub.html">Publications</a><br>
+   <a href="publication.html">Publications</a><br>
    <a href="forstudents.html">For students</a><br>
    <a href="localinfo.html">Around CAM</a><br>
    <a href="cal.html">Calendar</a><br>
