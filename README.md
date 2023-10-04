@@ -1,6 +1,6 @@
 <h1>
    Mahendranath Perisetti
-   <img src='WhatsApp Ima.jpg' height=200 width=100 float:left />
+   <img src='WhatsApp Ima.jpg' height=200 width=100 float:right />
 </h1>
 <! --![My picture](WhatsApp Ima.jpg) -->
 
