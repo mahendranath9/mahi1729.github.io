@@ -1,7 +1,7 @@
 <h1>
    <img src='WhatsApp Ima.jpg' height=200 width=150 float:left />
-   Mahendranath Perisetti
 </h1>
+<h1>Mahendranath Perisetti</h1>
 <! --![My picture](WhatsApp Ima.jpg) -->
 
 <h2> Experience</h2>
