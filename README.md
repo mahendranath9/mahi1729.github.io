@@ -14,7 +14,7 @@ var_dump('hello');
    Uniti of Maths
    Prague
 </address>
-<! --![My picture](WhatsApp Ima.jpg) -->
+
 
 <h2> Experience</h2>
 
