@@ -4,8 +4,13 @@
    <img src='WhatsApp Ima.jpg' style="float:right;width:250px;height:400px;" />
 </h1>
 <head>
-   Hello
+  <title>A Meaningful Page Title</title>
 </head>
+<body>
+
+The content of the document......
+
+</body>
 <address>
    Uniti of Maths
    Prague
