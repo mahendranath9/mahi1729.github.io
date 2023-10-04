@@ -3,14 +3,13 @@
    Mahendranath Perisetti 
    <img src='WhatsApp Ima.jpg' style="float:right;width:250px;height:400px;" />
 </h1>
-<head>
-  <title>A Meaningful Page Title</title>
-</head>
-<body>
+{% tabs log %}
 
-The content of the document......
-
-</body>
+{% tab log php %}
+```php
+var_dump('hello');
+```
+{% endtab %}
 <address>
    Uniti of Maths
    Prague
