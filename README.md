@@ -1,6 +1,9 @@
-<h1>Mahendranath Perisetti</h1>
+<h1>
+   Mahendranath Perisetti
+   <img src='WhatsApp Ima.jpg' height=200 width=100 />
+</h1>
 <! --![My picture](WhatsApp Ima.jpg) -->
-<img src='WhatsApp Ima.jpg' height=200 width=100 />
+
 <h2> Experience</h2>
 
 <ol>
