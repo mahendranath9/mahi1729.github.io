@@ -19,12 +19,6 @@
 
 <p style="text-align:center">
    
-<address>
-   Uniti of Maths
-   Prague
-</address>
-
-
 <h2> Experience</h2>
 
 <ol>
