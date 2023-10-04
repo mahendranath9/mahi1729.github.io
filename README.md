@@ -3,13 +3,24 @@
    Mahendranath Perisetti 
    <img src='WhatsApp Ima.jpg' style="float:right;width:250px;height:400px;" />
 </h1>
-{% tabs log %}
+<nav>
+   <h1>Praveen Chandrashekar</h1>
 
-{% tab log php %}
-```php
-var_dump('hello');
-```
-{% endtab %}
+   <p>
+   <a href="index.html">Home</a><br>
+   <a href="people.html">People</a><br>
+   <a href="codes.html">Codes</a><br>
+   <a href="talks.html">Talks</a><br>
+   <a href="teaching/index.html">Teaching</a><br>
+   <a href="pub.html">Publications</a><br>
+   <a href="forstudents.html">For students</a><br>
+   <a href="localinfo.html">Around CAM</a><br>
+   <a href="cal.html">Calendar</a><br>
+   <a href="contact.html">Contact</a>
+   </p>
+
+<p style="text-align:center">
+   
 <address>
    Uniti of Maths
    Prague
