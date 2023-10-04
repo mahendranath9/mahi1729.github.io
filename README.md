@@ -1,7 +1,7 @@
 
 <h1>
    Mahendranath Perisetti 
-   <img src='WhatsApp Ima.jpg' style="float:right;width:42px;height:42px;" />
+   <img src='WhatsApp Ima.jpg' style="float:right;width:100px;height:250px;" />
 </h1>
 <! --![My picture](WhatsApp Ima.jpg) -->
 
