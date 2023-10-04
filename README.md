@@ -3,14 +3,9 @@
    Mahendranath Perisetti 
    <img src='WhatsApp Ima.jpg' style="float:right;width:250px;height:400px;" />
 </h1>
-<p>
-   Insti of Maths 
-</p>
-<p>
-   Prague
-</p>
+
 <address>
-   Unsti of Maths
+   Uniti of Maths
    Prague
 </address>
 <! --![My picture](WhatsApp Ima.jpg) -->
