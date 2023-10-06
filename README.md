@@ -1,7 +1,7 @@
 
 <h1>
    Mahendranath Perisetti 
-   <img src='WhatsApp Ima.jpg' style="float:right;width:150px;height:300px;" />
+   <img src='WhatsApp Ima.jpg' style="float:right;width:200px;height:300px;" />
 </h1>
 <nav>
 
