@@ -1,5 +1,4 @@
-<!DOCTYPE html>
-<html>
+
 <h1>
    Mahendranath Perisetti 
    <img src='WhatsApp Ima.jpg' style="float:right;width:200px;height:300px;" />
@@ -28,4 +27,3 @@
 <h2> Ongoing works</h2>
 
 * L.N.M. Perisetti, J.S.H. Simons, Optimal control problem for multiphase flow with heat flux.  
-</html>
