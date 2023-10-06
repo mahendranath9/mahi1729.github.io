@@ -7,7 +7,7 @@
 
    <p>
    <a href="index.html">Home</a><br>
-   <a href="teaching/index.html">Teaching</a><br>
+   <a href="teaching.html">Teaching</a><br>
    <a href="publication.html">Publications</a><br>
    <a href="education.html">Education</a><br>
    <a href="cal.html">Calendar</a><br>
