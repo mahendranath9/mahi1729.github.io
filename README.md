@@ -1,14 +1,12 @@
 
 <h1>
    Mahendranath Perisetti 
-   <img src='WhatsApp Ima.jpg' style="float:right;width:250px;height:400px;" />
+   <img src='WhatsApp Ima.jpg' style="float:right;width:150px;height:300px;" />
 </h1>
 <nav>
 
    <p>
    <a href="index.html">Home</a><br>
-   <a href="people.html">People</a><br>
-   <a href="codes.html">Codes</a><br>
    <a href="teaching/index.html">Teaching</a><br>
    <a href="publication.html">Publications</a><br>
    <a href="education.html">Education</a><br>
