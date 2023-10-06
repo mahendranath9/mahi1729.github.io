@@ -12,7 +12,6 @@
    <a href="teaching/index.html">Teaching</a><br>
    <a href="publication.html">Publications</a><br>
    <a href="education.html">Education</a><br>
-   <a href="localinfo.html">Around CAM</a><br>
    <a href="cal.html">Calendar</a><br>
    <a href="contact.html">Contact</a>
    </p>
